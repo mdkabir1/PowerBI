@@ -111,6 +111,8 @@ This dashboard is designed to:
 
 ---
 
-## 📂 Suggested Repository Structure
+## 📧 Contact
+
+For questions or suggestions, feel free to reach out.
 
 
