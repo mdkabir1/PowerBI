@@ -19,6 +19,12 @@ This dashboard enables businesses to quickly identify trends, monitor performanc
 
 ---
 
+## 📸 Dashboard Preview
+
+![Sales Dashboard](Sales_Dashboard.jpg)
+
+---
+
 ## 📈 Key Metrics (KPIs)
 
 - **Total Sales:** 103K  
