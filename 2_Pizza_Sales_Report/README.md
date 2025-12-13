@@ -8,6 +8,13 @@ The dashboard enables quick, data‑driven insights to support decision‑making
 
 ---
 
+
+## 📸 Dashboard Preview
+
+![Sales Dashboard](pizzaa_sales_dashboard-images-0.jpg)
+![Sales Dashboard](pizzaa_sales_dashboard-images-1.jpg)
+
+
 ## 🗂️ Dataset Description
 
 The report is built on a transactional sales dataset containing order‑level details.
